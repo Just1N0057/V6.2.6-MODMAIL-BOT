@@ -1,2 +1,3 @@
 # V6.2.6-MODMAIL-BOT
 BOTA 2 FARKLI HATA BIRAKILDI
+![image](https://github.com/RoDevelopment/V6.2.6-MODMAIL-BOT/assets/110572436/db27b898-4968-4d66-b34a-51c35bf9d74c)
